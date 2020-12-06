@@ -1,8 +1,8 @@
 # Greek
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/greek`. To experiment with that code, run `bin/console` for an interactive prompt.
+DESCRIPTION: This CLI will display a list of Greek Gods. If the User so chooses a god they want to learn more about, they may choose the number beside the name. This will bring them to a breif description of the gods. If the User wants to see the list again, they will type 'list'. When the User has required all the knowlege they want, they may type 'exit
 
-TODO: Delete this and the text above, and describe your gem
+
 
 ## Installation
 
