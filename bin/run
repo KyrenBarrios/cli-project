@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
-require './lib/evironment'
+require_relative '../lib/evironment'
 
 
 Greek::CLI.new.call
