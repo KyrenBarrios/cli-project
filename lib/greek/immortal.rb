@@ -4,7 +4,7 @@ class Immortal
     @@all =[]
     
     def initialize(name = nil, desc = nil)
-      @name =name
+      @name = name
       @desc = desc
       @@all << self
     end
@@ -12,4 +12,4 @@ class Immortal
     def self.all 
       @@all
     end
-  end
+end
