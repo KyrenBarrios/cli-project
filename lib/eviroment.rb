@@ -7,6 +7,7 @@ require "open-uri"
 require "pry"
 
 module Greek
-  class Error < StandardError; end
-  # Your code goes here...
-end
+    class Error < StandardError; end
+    # Your code goes here...
+  end
+  
